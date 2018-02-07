@@ -1,0 +1,2 @@
+# SCARA
+control SCARA
